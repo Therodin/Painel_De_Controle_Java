@@ -125,7 +125,7 @@ public class JanelaAplicacao {
 		
 
 		public boolean checarSenha(String cdg) {
-			return cdg.equals("messiasfoda");
+			return cdg.equals(" ");
 		}
 		});
 		frame.getContentPane().add(liberarcdg);
